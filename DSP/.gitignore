@@ -34,10 +34,7 @@ npm-debug.log*
 .idea/
 *.sublime-*
 
-# Large media files (optional)
-*.mp4
-*.avi
-*.mov
+
 
 # Personal/sensitive data
 config.json
