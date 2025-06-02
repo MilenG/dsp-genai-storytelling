@@ -1,0 +1,45 @@
+# OS generated files 
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+#Temporary files
+*.tmp
+*.temp
+~$*
+*.swp
+*.swo
+
+#Document processing temp files
+*.docx~
+*.pdf~
+
+#Python (if any scripts)
+__pycache__/
+*.py[ cod]
+*$py.class
+*.pyc
+.env
+
+#Node.js (if web components)
+node_modules/
+npm-debug.log*
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Large media files (optional)
+*.mp4
+*.avi
+*.mov
+
+# Personal/sensitive data
+config.json
+secrets.txt
+*.key
