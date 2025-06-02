@@ -44,3 +44,5 @@ config.json
 secrets.txt
 *.key
 .viminfo
+.viminfo
+../*
