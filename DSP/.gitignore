@@ -43,3 +43,4 @@ npm-debug.log*
 config.json
 secrets.txt
 *.key
+.viminfo
